@@ -1,0 +1,27 @@
+random_forest_classifier:
+  n_estimators: 364
+  max_depth: 10
+  min_samples_split: 19
+  min_samples_leaf: 10
+  max_features: "sqrt"
+  bootstrap: False
+
+xgboost:
+  n_estimators: 83
+  max_depth: 1
+  learning_rate: 0.032
+  subsample: 0.99
+  colsample_bytree: 0.80
+  gamma: 2.93
+  reg_alpha: 3.11
+  reg_lambda: 1.53
+
+lightgbm:
+  n_estimators: 75
+  max_depth: 8
+  learning_rate: 0.028
+  subsample: 0.611
+  colsample_bytree: 0.81
+  gamma: 2.21
+  reg_alpha: 4.59
+  reg_lambda: 2.40

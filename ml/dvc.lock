@@ -1,0 +1,59 @@
+schema: '2.0'
+stages:
+  data_processing:
+    cmd: python src/data/data_processing.py
+    deps:
+    - path: data/raw/fights_dataset_with_stats.csv
+      hash: md5
+      md5: 51e85978b5ffefd2dbd5bcf4c2e1bbdb
+      size: 1880896
+    - path: src/data/data_processing.py
+      hash: md5
+      md5: b89c99f0a4eda8c4c65d3b61b0239e3b
+      size: 8343
+    outs:
+    - path: data/processed
+      hash: md5
+      md5: af04f540ba3a2382766e7f5dffc73885.dir
+      size: 1109680
+      nfiles: 2
+  model_building:
+    cmd: python src/model/model_building.py
+    deps:
+    - path: data/processed/train_processed.csv
+      hash: md5
+      md5: e65a593187fd1a6cc1d137a15ef9f2e4
+      size: 780791
+    - path: params.yaml
+      hash: md5
+      md5: 16079e2d542594b763ecf3ff63b2673b
+      size: 502
+    - path: src/model/model_building.py
+      hash: md5
+      md5: 777a51955766ecb903fa34963c56486e
+      size: 3303
+    outs:
+    - path: model.pkl
+      hash: md5
+      md5: abcc7ae42244661fbab2d8779443ec3b
+      size: 14229580
+  model_evaluation:
+    cmd: python src/model/model_evaluation.py
+    deps:
+    - path: data/processed/test_processed.csv
+      hash: md5
+      md5: 3841b27507a5ec76972c9b342be9a60c
+      size: 328889
+    - path: model.pkl
+      hash: md5
+      md5: abcc7ae42244661fbab2d8779443ec3b
+      size: 14229580
+    - path: src/model/model_evaluation.py
+      hash: md5
+      md5: 79e587e23669aba0771fb86242f15485
+      size: 535
+    outs:
+    - path: model_logs.txt
+      hash: md5
+      md5: 9972104462f291a4c89254744ae85c3e
+      size: 334
