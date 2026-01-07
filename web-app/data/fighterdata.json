@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Tom Aspinall",
+    "nickname": "The Honey Badger",
+    "division": "heavyweight",
+    "rating": 1,
+    "record": "15-3 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/399afbabc02376b5"
+  },
+  {
+    "name": "Ciryl Gane",
+    "nickname": "Bon Gamin",
+    "division": "heavyweight",
+    "rating": 2,
+    "record": "13-2 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/787bb1f087ccff8a"
+  },
+  {
+    "name": "Alexander Volkov",
+    "nickname": "Drago",
+    "division": "heavyweight",
+    "rating": 3,
+    "record": "39-11",
+    "url": "http://www.ufcstats.com/fighter-details/279566840aa55bf2"
+  },
+  {
+    "name": "Sergei Pavlovich",
+    "nickname": "The White Ngannou",
+    "division": "heavyweight",
+    "rating": 4,
+    "record": "20-3",
+    "url": "http://www.ufcstats.com/fighter-details/f14cf73e51b29254"
+  },
+  {
+    "name": "Curtis Blaydes",
+    "nickname": "Razor",
+    "division": "heavyweight",
+    "rating": 5,
+    "record": "19-5 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/fa6796c55d6c5440"
+  },
+  {
+    "name": "Waldo Cortes-Acosta",
+    "nickname": "Salsa Boy",
+    "division": "heavyweight",
+    "rating": 6,
+    "record": "16-2",
+    "url": "http://www.ufcstats.com/fighter-details/fc08099550072fe4"
+  },
+  {
+    "name": "Jailton Almeida",
+    "nickname": "Malhadinho",
+    "division": "heavyweight",
+    "rating": 7,
+    "record": "22-4",
+    "url": "http://www.ufcstats.com/fighter-details/41e83a89929d1327"
+  },
+  {
+    "name": "Serghei Spivac",
+    "nickname": "Polar Bear",
+    "division": "heavyweight",
+    "rating": 8,
+    "record": "17-6",
+    "url": "http://www.ufcstats.com/fighter-details/e2f6b2769aaedd6c"
+  },
+  {
+    "name": "Derrick Lewis",
+    "nickname": "The Black Beast",
+    "division": "heavyweight",
+    "rating": 9,
+    "record": "29-12 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/d3df1add9d9a7efb"
+  },
+  {
+    "name": "Ante Delija",
+    "nickname": "Walking Trouble",
+    "division": "heavyweight",
+    "rating": 10,
+    "record": "26-7",
+    "url": "http://www.ufcstats.com/fighter-details/7d8435c56043b0ae"
+  },
+  {
+    "name": "Marcin Tybura",
+    "nickname": "Tybur",
+    "division": "heavyweight",
+    "rating": 11,
+    "record": "27-10",
+    "url": "http://www.ufcstats.com/fighter-details/c9cf753cfdf77fc2"
+  },
+  {
+    "name": "Alex Pereira",
+    "nickname": "Poatan",
+    "division": "light-heavyweight",
+    "rating": 1,
+    "record": "13-3",
+    "url": "http://www.ufcstats.com/fighter-details/e5549c82bfb5582d"
+  },
+  {
+    "name": "Magomed Ankalaev",
+    "nickname": "Big Ank",
+    "division": "light-heavyweight",
+    "rating": 2,
+    "record": "20-2-1 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/d802174b0c0c1f4e"
+  },
+  {
+    "name": "Jiří Procházka",
+    "nickname": "Denisa",
+    "division": "light-heavyweight",
+    "rating": 3,
+    "record": "32-5-1",
+    "url": "http://www.ufcstats.com/fighter-details/009341ed974bad72"
+  },
+  {
+    "name": "Carlos Ulberg",
+    "nickname": "Black Jag",
+    "division": "light-heavyweight",
+    "rating": 4,
+    "record": "13-1",
+    "url": "http://www.ufcstats.com/fighter-details/9014c02eff8b3d62"
+  },
+  {
+    "name": "Khalil Rountree Jr.",
+    "nickname": "The War House",
+    "division": "light-heavyweight",
+    "rating": 5,
+    "record": "14-7 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/749f572d1d3161fb"
+  },
+  {
+    "name": "Jan Błachowicz",
+    "nickname": "Prince of Cieszyn",
+    "division": "light-heavyweight",
+    "rating": 6,
+    "record": "29-11-2",
+    "url": "http://www.ufcstats.com/fighter-details/99df7d0a2a08a8a8"
+  },
+  {
+    "name": "Azamat Murzakanov",
+    "nickname": "The Professional",
+    "division": "light-heavyweight",
+    "rating": 7,
+    "record": "16-0",
+    "url": "http://www.ufcstats.com/fighter-details/e90a2f22417af68e"
+  },
+  {
+    "name": "Jamahal Hill",
+    "nickname": "Sweet Dreams",
+    "division": "light-heavyweight",
+    "rating": 8,
+    "record": "12-4 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/5444c5a201d3ee5a"
+  },
+  {
+    "name": "Volkan Oezdemir",
+    "nickname": "No Time",
+    "division": "light-heavyweight",
+    "rating": 9,
+    "record": "21-8",
+    "url": "http://www.ufcstats.com/fighter-details/0845c81e37d3bcb3"
+  },
+  {
+    "name": "Dominick Reyes",
+    "nickname": "The Devastator",
+    "division": "light-heavyweight",
+    "rating": 10,
+    "record": "15-5",
+    "url": "http://www.ufcstats.com/fighter-details/2e19380f34871c6a"
+  },
+  {
+    "name": "Bogdan Guskov",
+    "nickname": "Czarevitch",
+    "division": "light-heavyweight",
+    "rating": 11,
+    "record": "18-3-1",
+    "url": "http://www.ufcstats.com/fighter-details/ef5dcb10d2bd4b0f"
+  },
+  {
+    "name": "Khamzat Chimaev",
+    "nickname": "BORZ",
+    "division": "middleweight",
+    "rating": 1,
+    "record": "15-0",
+    "url": "http://www.ufcstats.com/fighter-details/767755fd74662dbf"
+  },
+  {
+    "name": "Dricus du Plessis",
+    "nickname": "Stillknocks",
+    "division": "middleweight",
+    "rating": 2,
+    "record": "23-3",
+    "url": "http://www.ufcstats.com/fighter-details/0d7b51c9d2649a6e"
+  },
+  {
+    "name": "Nassourdine Imavov",
+    "nickname": "The Sniper",
+    "division": "middleweight",
+    "rating": 3,
+    "record": "17-4 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/881bf86d4cba8578"
+  },
+  {
+    "name": "Sean Strickland",
+    "nickname": "Tarzan",
+    "division": "middleweight",
+    "rating": 4,
+    "record": "29-7",
+    "url": "http://www.ufcstats.com/fighter-details/0d8011111be000b2"
+  },
+  {
+    "name": "Anthony Hernandez",
+    "nickname": "Fluffy",
+    "division": "middleweight",
+    "rating": 5,
+    "record": "15-2 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/093e1f5bb73850be"
+  },
+  {
+    "name": "Brendan Allen",
+    "nickname": "All In",
+    "division": "middleweight",
+    "rating": 6,
+    "record": "26-7",
+    "url": "http://www.ufcstats.com/fighter-details/2f181c0467965b98"
+  },
+  {
+    "name": "Israel Adesanya",
+    "nickname": "The Last Stylebender",
+    "division": "middleweight",
+    "rating": 7,
+    "record": "24-5",
+    "url": "http://www.ufcstats.com/fighter-details/1338e2c7480bdf9e"
+  },
+  {
+    "name": "Caio Borralho",
+    "nickname": "The Natural",
+    "division": "middleweight",
+    "rating": 8,
+    "record": "17-2 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/4126a78111c0855a"
+  },
+  {
+    "name": "Reinier de Ridder",
+    "nickname": "RDR",
+    "division": "middleweight",
+    "rating": 9,
+    "record": "21-3",
+    "url": "http://www.ufcstats.com/fighter-details/d549cefc7c54ab78"
+  },
+  {
+    "name": "Robert Whittaker",
+    "nickname": "The Reaper",
+    "division": "middleweight",
+    "rating": 10,
+    "record": "26-9",
+    "url": "http://www.ufcstats.com/fighter-details/e1147d3d2dabe1ce"
+  },
+  {
+    "name": "Jared Cannonier",
+    "nickname": "The Killa Gorilla",
+    "division": "middleweight",
+    "rating": 11,
+    "record": "18-9",
+    "url": "http://www.ufcstats.com/fighter-details/13a0275fa13c4d26"
+  },
+  {
+    "name": "Islam Makhachev",
+    "nickname": "Islam Makhachev",
+    "division": "welterweight",
+    "rating": 1,
+    "record": "28-1",
+    "url": "http://www.ufcstats.com/fighter-details/275aca31f61ba28c"
+  },
+  {
+    "name": "Jack Della Maddalena",
+    "nickname": "Jack Della Maddalena",
+    "division": "welterweight",
+    "rating": 2,
+    "record": "18-3",
+    "url": "http://www.ufcstats.com/fighter-details/6b453bc35a823c3f"
+  },
+  {
+    "name": "Shavkat Rakhmonov",
+    "nickname": "NOMAD",
+    "division": "welterweight",
+    "rating": 3,
+    "record": "19-0",
+    "url": "http://www.ufcstats.com/fighter-details/01afe0916a40c7c5"
+  },
+  {
+    "name": "Ian Machado Garry",
+    "nickname": "The Future",
+    "division": "welterweight",
+    "rating": 4,
+    "record": "17-1",
+    "url": "http://www.ufcstats.com/fighter-details/442c9011034ae1fd"
+  },
+  {
+    "name": "Michael Morales",
+    "nickname": "Michael Morales",
+    "division": "welterweight",
+    "rating": 5,
+    "record": "19-0",
+    "url": "http://www.ufcstats.com/fighter-details/c32aeb1a59e6272d"
+  },
+  {
+    "name": "Belal Muhammad",
+    "nickname": "Remember The Name",
+    "division": "welterweight",
+    "rating": 6,
+    "record": "24-5 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/b1b0729d27936f2f"
+  },
+  {
+    "name": "Carlos Prates",
+    "nickname": "The Nightmare",
+    "division": "welterweight",
+    "rating": 7,
+    "record": "23-7",
+    "url": "http://www.ufcstats.com/fighter-details/7ee0fd831c0fe7c3"
+  },
+  {
+    "name": "Sean Brady",
+    "nickname": "Sean Brady",
+    "division": "welterweight",
+    "rating": 8,
+    "record": "18-2",
+    "url": "http://www.ufcstats.com/fighter-details/45f7cb591c3ab00b"
+  },
+  {
+    "name": "Kamaru Usman",
+    "nickname": "The Nigerian Nightmare",
+    "division": "welterweight",
+    "rating": 9,
+    "record": "21-4",
+    "url": "http://www.ufcstats.com/fighter-details/f1b2aa7853d1ed6e"
+  },
+  {
+    "name": "Leon Edwards",
+    "nickname": "Rocky",
+    "division": "welterweight",
+    "rating": 10,
+    "record": "22-6 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/f1fac969a1d70b08"
+  },
+  {
+    "name": "Joaquin Buckley",
+    "nickname": "New Mansa",
+    "division": "welterweight",
+    "rating": 11,
+    "record": "21-7",
+    "url": "http://www.ufcstats.com/fighter-details/b9437600497350f3"
+  },
+  {
+    "name": "Ilia Topuria",
+    "nickname": "El Matador",
+    "division": "lightweight",
+    "rating": 1,
+    "record": "17-0",
+    "url": "http://www.ufcstats.com/fighter-details/54f64b5e283b0ce7"
+  },
+  {
+    "name": "Arman Tsarukyan",
+    "nickname": "Ahalkalakets",
+    "division": "lightweight",
+    "rating": 2,
+    "record": "23-3",
+    "url": "http://www.ufcstats.com/fighter-details/eae48ff31db420c2"
+  },
+  {
+    "name": "Charles Oliveira",
+    "nickname": "Do Bronx",
+    "division": "lightweight",
+    "rating": 3,
+    "record": "36-11 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/54f64b5e283b0ce7"
+  },
+  {
+    "name": "Max Holloway",
+    "nickname": "Blessed",
+    "division": "lightweight",
+    "rating": 4,
+    "record": "27-8",
+    "url": "http://www.ufcstats.com/fighter-details/07225ba28ae309b6"
+  },
+  {
+    "name": "Justin Gaethje",
+    "nickname": "The Highlight",
+    "division": "lightweight",
+    "rating": 5,
+    "record": "26-5",
+    "url": "http://www.ufcstats.com/fighter-details/9e8f6c728eb01124"
+  },
+  {
+    "name": "Paddy Pimblett",
+    "nickname": "The Baddy",
+    "division": "lightweight",
+    "rating": 6,
+    "record": "23-3",
+    "url": "http://www.ufcstats.com/fighter-details/7826923b47f8d72a"
+  },
+  {
+    "name": "Dan Hooker",
+    "nickname": "The Hangman",
+    "division": "lightweight",
+    "rating": 7,
+    "record": "24-13",
+    "url": "http://www.ufcstats.com/fighter-details/193b9d1858bc4df3"
+  },
+  {
+    "name": "Mateusz Gamrot",
+    "nickname": "Gamer",
+    "division": "lightweight",
+    "rating": 8,
+    "record": "25-4 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/72db2a14ffa73ece"
+  },
+  {
+    "name": "Benoît Saint Denis",
+    "nickname": "God Of War",
+    "division": "lightweight",
+    "rating": 9,
+    "record": "16-3 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/c2299ec916bc7c56"
+  },
+  {
+    "name": "Rafael Fiziev",
+    "nickname": "Ataman",
+    "division": "lightweight",
+    "rating": 10,
+    "record": "13-4",
+    "url": "http://www.ufcstats.com/fighter-details/c814b4c899793af6"
+  },
+  {
+    "name": "Renato Moicano",
+    "nickname": "Money",
+    "division": "lightweight",
+    "rating": 11,
+    "record": "20-7-1",
+    "url": "http://www.ufcstats.com/fighter-details/b6452706b373eea1"
+  },
+  {
+    "name": "Alexander Volkanovski",
+    "nickname": "The Great",
+    "division": "featherweight",
+    "rating": 1,
+    "record": "27-4",
+    "url": "http://www.ufcstats.com/fighter-details/e1248941344b3288"
+  },
+  {
+    "name": "Movsar Evloev",
+    "nickname": "Movsar Evloev",
+    "division": "featherweight",
+    "rating": 2,
+    "record": "19-0",
+    "url": "http://www.ufcstats.com/fighter-details/76e2870ffafbe38f"
+  },
+  {
+    "name": "Diego Lopes",
+    "nickname": "Diego Lopes",
+    "division": "featherweight",
+    "rating": 3,
+    "record": "27-7",
+    "url": "http://www.ufcstats.com/fighter-details/f166e93d04a8c274"
+  },
+  {
+    "name": "Yair Rodríguez",
+    "nickname": "El Pantera",
+    "division": "featherweight",
+    "rating": 4,
+    "record": "20-5 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/cbf5e6f231b55443"
+  },
+  {
+    "name": "Lerone Murphy",
+    "nickname": "The Miracle",
+    "division": "featherweight",
+    "rating": 5,
+    "record": "17-0-1",
+    "url": "http://www.ufcstats.com/fighter-details/396fe87b84ac2e1c"
+  },
+  {
+    "name": "Aljamain Sterling",
+    "nickname": "Funk Master",
+    "division": "featherweight",
+    "rating": 6,
+    "record": "25-5",
+    "url": "http://www.ufcstats.com/fighter-details/cb696ebfb6598724"
+  },
+  {
+    "name": "Arnold Allen",
+    "nickname": "Almighty",
+    "division": "featherweight",
+    "rating": 7,
+    "record": "20-3",
+    "url": "http://www.ufcstats.com/fighter-details/040a74bb0a465c54"
+  },
+  {
+    "name": "Youssef Zalal",
+    "nickname": "The Moroccan Devil",
+    "division": "featherweight",
+    "rating": 8,
+    "record": "18-5",
+    "url": "http://www.ufcstats.com/fighter-details/52c2ae6d2f2d2613"
+  },
+  {
+    "name": "Steve Garcia",
+    "nickname": "Mean Machine",
+    "division": "featherweight",
+    "rating": 9,
+    "record": "19-5",
+    "url": "http://www.ufcstats.com/fighter-details/97cf1a2c7c5e7889"
+  },
+  {
+    "name": "Brian Ortega",
+    "nickname": "T-City",
+    "division": "featherweight",
+    "rating": 10,
+    "record": "16-5 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/def8166ff24bd237"
+  },
+  {
+    "name": "Jean Silva",
+    "nickname": "Lord",
+    "division": "featherweight",
+    "rating": 11,
+    "record": "16-3",
+    "url": "http://www.ufcstats.com/fighter-details/52ef95b5860fb28c"
+  },
+  {
+    "name": "Petr Yan",
+    "nickname": "No Mercy",
+    "division": "bantamweight",
+    "rating": 1,
+    "record": "20-5",
+    "url": "http://www.ufcstats.com/fighter-details/d661ce4da776fc20"
+  },
+  {
+    "name": "Merab Dvalishvili",
+    "nickname": "The Machine",
+    "division": "bantamweight",
+    "rating": 2,
+    "record": "21-5",
+    "url": "http://www.ufcstats.com/fighter-details/c03520b5c88ed6b4"
+  },
+  {
+    "name": "Umar Nurmagomedov",
+    "nickname": "The Eagle",
+    "division": "bantamweight",
+    "rating": 3,
+    "record": "19-1",
+    "url": "http://www.ufcstats.com/fighter-details/2b6fc1c02736833d"
+  },
+  {
+    "name": "Sean O'Malley",
+    "nickname": "Suga",
+    "division": "bantamweight",
+    "rating": 4,
+    "record": "18-3 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/b50a426a33da0012"
+  },
+  {
+    "name": "Cory Sandhagen",
+    "nickname": "The Sandman",
+    "division": "bantamweight",
+    "rating": 5,
+    "record": "18-6",
+    "url": "http://www.ufcstats.com/fighter-details/65f09bacd3957381"
+  },
+  {
+    "name": "Song Yadong",
+    "nickname": "Kung Fu Kid",
+    "division": "bantamweight",
+    "rating": 6,
+    "record": "22-7-1 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/efb96bf3e9ada36f"
+  },
+  {
+    "name": "Deiveson Figueiredo",
+    "nickname": "Deus De Guerra",
+    "division": "bantamweight",
+    "rating": 7,
+    "record": "25-5-1",
+    "url": "http://www.ufcstats.com/fighter-details/aa72b0f831d0bfe5"
+  },
+  {
+    "name": "Aiemann Zahabi",
+    "nickname": "Aiemann Zahabi",
+    "division": "bantamweight",
+    "rating": 8,
+    "record": "14-2",
+    "url": "http://www.ufcstats.com/fighter-details/24656ef4d605c96f"
+  },
+  {
+    "name": "Marlon Vera",
+    "nickname": "Chito",
+    "division": "bantamweight",
+    "rating": 9,
+    "record": "23-11-1",
+    "url": "http://www.ufcstats.com/fighter-details/7c7332319c14094c"
+  },
+  {
+    "name": "Mario Bautista",
+    "nickname": "The Crazy Man",
+    "division": "bantamweight",
+    "rating": 10,
+    "record": "16-3",
+    "url": "http://www.ufcstats.com/fighter-details/bc711b6dd95c1af6"
+  },
+  {
+    "name": "David Martínez",
+    "nickname": "Doctor",
+    "division": "bantamweight",
+    "rating": 11,
+    "record": "13-1",
+    "url": "http://www.ufcstats.com/fighter-details/9a97acbfd5a08bfa"
+  },
+  {
+    "name": "Joshua Van",
+    "nickname": "The Fearless",
+    "division": "flyweight",
+    "rating": 1,
+    "record": "16-2",
+    "url": "http://www.ufcstats.com/fighter-details/17e97649403ba428"
+  },
+  {
+    "name": "Alexandre Pantoja",
+    "nickname": "The Cannibal",
+    "division": "flyweight",
+    "rating": 2,
+    "record": "30-6",
+    "url": "http://www.ufcstats.com/fighter-details/a0f0004aadf10b71"
+  },
+  {
+    "name": "Manel Kape",
+    "nickname": "Starboy",
+    "division": "flyweight",
+    "rating": 3,
+    "record": "22-7",
+    "url": "http://www.ufcstats.com/fighter-details/5d1b7e3dd9e11074"
+  },
+  {
+    "name": "Tatsuro Taira",
+    "nickname": "The Best",
+    "division": "flyweight",
+    "rating": 4,
+    "record": "18-1",
+    "url": "http://www.ufcstats.com/fighter-details/4461d7e47375a895"
+  },
+  {
+    "name": "Brandon Royval",
+    "nickname": "Raw Dawg",
+    "division": "flyweight",
+    "rating": 5,
+    "record": "17-9",
+    "url": "http://www.ufcstats.com/fighter-details/6e15f63b6c2e2c15"
+  },
+  {
+    "name": "Brandon Moreno",
+    "nickname": "The Assassin Baby",
+    "division": "flyweight",
+    "rating": 6,
+    "record": "23-9-2",
+    "url": "http://www.ufcstats.com/fighter-details/792be9a24df82ed6"
+  },
+  {
+    "name": "Amir Albazi",
+    "nickname": "The Prince",
+    "division": "flyweight",
+    "rating": 7,
+    "record": "17-2",
+    "url": "http://www.ufcstats.com/fighter-details/6d35bf94f7d30241"
+  },
+  {
+    "name": "Asu Almabayev",
+    "nickname": "ZULFIKAR",
+    "division": "flyweight",
+    "rating": 8,
+    "record": "23-3",
+    "url": "http://www.ufcstats.com/fighter-details/8d3273573b85be09"
+  },
+  {
+    "name": "Kyoji Horiguchi",
+    "nickname": "The Typhoon",
+    "division": "flyweight",
+    "rating": 9,
+    "record": "35-5 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/98aa60cf58071fd6"
+  },
+  {
+    "name": "Tim Elliott",
+    "nickname": "The Fire",
+    "division": "flyweight",
+    "rating": 10,
+    "record": "21-13-1",
+    "url": "http://www.ufcstats.com/fighter-details/c96d9178c9ed9e62"
+  },
+  {
+    "name": "Steve Erceg",
+    "nickname": "Astroboy",
+    "division": "flyweight",
+    "rating": 11,
+    "record": "13-4",
+    "url": "http://www.ufcstats.com/fighter-details/32ab52e5de93092d"
+  },
+  {
+    "name": "Kayla Harrison",
+    "nickname": "Kayla Harrison",
+    "division": "bantamweight-women",
+    "rating": 1,
+    "record": "19-1",
+    "url": "http://www.ufcstats.com/fighter-details/1af1170ed937cba7"
+  },
+  {
+    "name": "Julianna Peña",
+    "nickname": "The Venezuelan Vixen",
+    "division": "bantamweight-women",
+    "rating": 2,
+    "record": "12-6",
+    "url": "http://www.ufcstats.com/fighter-details/3253b16d38ae087d"
+  },
+  {
+    "name": "Raquel Pennington",
+    "nickname": "Rocky",
+    "division": "bantamweight-women",
+    "rating": 3,
+    "record": "16-9",
+    "url": "http://www.ufcstats.com/fighter-details/fc169c387b4b465d"
+  },
+  {
+    "name": "Norma Dumont",
+    "nickname": "The Immortal",
+    "division": "bantamweight-women",
+    "rating": 4,
+    "record": "13-2",
+    "url": "http://www.ufcstats.com/fighter-details/d3f5d33d61cd00c9"
+  },
+  {
+    "name": "Ketlen Vieira",
+    "nickname": "Fenomeno",
+    "division": "bantamweight-women",
+    "rating": 5,
+    "record": "15-5",
+    "url": "http://www.ufcstats.com/fighter-details/b9706f80d005036c"
+  },
+  {
+    "name": "Yana Santos",
+    "nickname": "Foxy",
+    "division": "bantamweight-women",
+    "rating": 6,
+    "record": "17-8 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/3143bf892608139a"
+  },
+  {
+    "name": "Irene Aldana",
+    "nickname": "Robles",
+    "division": "bantamweight-women",
+    "rating": 7,
+    "record": "15-8",
+    "url": "http://www.ufcstats.com/fighter-details/578ef12674df1e6a"
+  },
+  {
+    "name": "Macy Chiasson",
+    "nickname": "Macy Chiasson",
+    "division": "bantamweight-women",
+    "rating": 8,
+    "record": "11-5",
+    "url": "http://www.ufcstats.com/fighter-details/9cdd2da1a9104a0b"
+  },
+  {
+    "name": "Ailín Pérez",
+    "nickname": "Fiona",
+    "division": "bantamweight-women",
+    "rating": 9,
+    "record": "12-2",
+    "url": "http://www.ufcstats.com/fighter-details/06e4245d16fc5315"
+  },
+  {
+    "name": "Karol Rosa",
+    "nickname": "Karol Rosa",
+    "division": "bantamweight-women",
+    "rating": 10,
+    "record": "19-7",
+    "url": "http://www.ufcstats.com/fighter-details/351c4ec637380ad5"
+  },
+  {
+    "name": "Jacqueline Cavalcanti",
+    "nickname": "The Nightmare",
+    "division": "bantamweight-women",
+    "rating": 11,
+    "record": "10-1",
+    "url": "http://www.ufcstats.com/fighter-details/e3964ece586e0635"
+  },
+  {
+    "name": "Valentina Shevchenko",
+    "nickname": "Bullet",
+    "division": "flyweight-women",
+    "rating": 1,
+    "record": "26-4-1",
+    "url": "http://www.ufcstats.com/fighter-details/132deb59abae64b1"
+  },
+  {
+    "name": "Manon Fiorot",
+    "nickname": "The Beast",
+    "division": "flyweight-women",
+    "rating": 2,
+    "record": "13-2",
+    "url": "http://www.ufcstats.com/fighter-details/34ff304266360297"
+  },
+  {
+    "name": "Natália Silva",
+    "nickname": "Natalie Silva",
+    "division": "flyweight-women",
+    "rating": 3,
+    "record": "19-5-1",
+    "url": "http://www.ufcstats.com/fighter-details/262d32ebda89efc4"
+  },
+  {
+    "name": "Alexa Grasso",
+    "nickname": "Alexa Grosso",
+    "division": "flyweight-women",
+    "rating": 4,
+    "record": "16-5-1",
+    "url": "http://www.ufcstats.com/fighter-details/e8b731feff72294b"
+  },
+  {
+    "name": "Erin Blanchfield",
+    "nickname": "Cold Blooded",
+    "division": "flyweight-women",
+    "rating": 5,
+    "record": "14-2",
+    "url": "http://www.ufcstats.com/fighter-details/669970f7feba8ecd"
+  },
+  {
+    "name": "Maycee Barber",
+    "nickname": "The Future",
+    "division": "flyweight-women",
+    "rating": 6,
+    "record": "15-2",
+    "url": "http://www.ufcstats.com/fighter-details/6a740daf1b279661"
+  },
+  {
+    "name": "Rose Namajunas",
+    "nickname": "Thug",
+    "division": "flyweight-women",
+    "rating": 7,
+    "record": "14-7",
+    "url": "http://www.ufcstats.com/fighter-details/47b63240018d5d86"
+  },
+  {
+    "name": "Jasmine Jasudavicius",
+    "nickname": "Jasmine Jasudavicius",
+    "division": "flyweight-women",
+    "rating": 8,
+    "record": "14-4",
+    "url": "http://www.ufcstats.com/fighter-details/a9e260472d321361"
+  },
+  {
+    "name": "Tracy Cortez",
+    "nickname": "Tracy Cortez",
+    "division": "flyweight-women",
+    "rating": 9,
+    "record": "12-3",
+    "url": "http://www.ufcstats.com/fighter-details/68d4a891e5cf2029"
+  },
+  {
+    "name": "Karine Silva",
+    "nickname": "Killer",
+    "division": "flyweight-women",
+    "rating": 10,
+    "record": "19-6",
+    "url": "http://www.ufcstats.com/fighter-details/9d62c2d8ee151f08"
+  },
+  {
+    "name": "Miranda Maverick",
+    "nickname": "Fear The",
+    "division": "flyweight-women",
+    "rating": 11,
+    "record": "15-6",
+    "url": "http://www.ufcstats.com/fighter-details/f29a6350c69f4a33"
+  },
+  {
+    "name": "Mackenzie Dern",
+    "nickname": "Mackenzie Dern",
+    "division": "strawweight-women",
+    "rating": 1,
+    "record": "16-5",
+    "url": "http://www.ufcstats.com/fighter-details/7447e9f28508106a"
+  },
+  {
+    "name": "Zhang Weili",
+    "nickname": "Magnum",
+    "division": "strawweight-women",
+    "rating": 2,
+    "record": "26-4",
+    "url": "http://www.ufcstats.com/fighter-details/1ebe20ebbfa15e29"
+  },
+  {
+    "name": "Tatiana Suarez",
+    "nickname": "Tatiana Suarez",
+    "division": "strawweight-women",
+    "rating": 3,
+    "record": "11-1",
+    "url": "http://www.ufcstats.com/fighter-details/b08012bbe542592a"
+  },
+  {
+    "name": "Virna Jandiroba",
+    "nickname": "Carcara",
+    "division": "strawweight-women",
+    "rating": 4,
+    "record": "22-4",
+    "url": "http://www.ufcstats.com/fighter-details/7dda2cf308f24a02"
+  },
+  {
+    "name": "Yan Xiaonan",
+    "nickname": "Yan Xiaonan",
+    "division": "strawweight-women",
+    "rating": 5,
+    "record": "18-5 (1 NC)",
+    "url": "http://www.ufcstats.com/fighter-details/c41d426cc7326d1b"
+  },
+  {
+    "name": "Amanda Lemos",
+    "nickname": "Amanda Lemos",
+    "division": "strawweight-women",
+    "rating": 6,
+    "record": "15-5-1",
+    "url": "http://www.ufcstats.com/fighter-details/3df5493bb279226f"
+  },
+  {
+    "name": "Loopy Godinez",
+    "nickname": "Loopy Godinez",
+    "division": "strawweight-women",
+    "rating": 7,
+    "record": "14-5",
+    "url": "http://www.ufcstats.com/fighter-details/8e5d953bdb9ae5e7"
+  },
+  {
+    "name": "Iasmin Lucindo",
+    "nickname": "Iasmin Lucindo",
+    "division": "strawweight-women",
+    "rating": 8,
+    "record": "18-6",
+    "url": "http://www.ufcstats.com/fighter-details/abcf2cc6efc42031"
+  },
+  {
+    "name": "Tabatha Ricci",
+    "nickname": "Baby Shark",
+    "division": "strawweight-women",
+    "rating": 9,
+    "record": "12-3",
+    "url": "http://www.ufcstats.com/fighter-details/d25240135aee03e5"
+  },
+  {
+    "name": "Jéssica Andrade",
+    "nickname": "Bate Estaca",
+    "division": "strawweight-women",
+    "rating": 10,
+    "record": "26-15",
+    "url": "http://www.ufcstats.com/fighter-details/6a1901c62ab3870f"
+  },
+  {
+    "name": "Gillian Robertson",
+    "nickname": "The Savage",
+    "division": "strawweight-women",
+    "rating": 11,
+    "record": "16-8",
+    "url": "http://www.ufcstats.com/fighter-details/38c7f72747f4f712"
+  }
+]

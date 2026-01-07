@@ -8,7 +8,7 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --font-sans: var(--font-sans, var(--font-geist-sans));
   --font-mono: var(--font-geist-mono);
 }
 
@@ -22,5 +22,137 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+/* UFC-themed landing styles (red / black / white) */
+.ufc-hero {
+  @apply px-6 py-12 mx-20 z-20 max-w-full;
+}
+
+.ufc-header {
+  @apply text-center text-white p-10;
+}
+
+.ufc-header h1 {
+  @apply m-0 mb-10 text-6xl text-red-500 font-semibold;
+}
+
+.lead {
+  @apply m-0 text-xl;
+  color: #e6e6e6;
+}
+
+.weight-grid {
+  @apply grid gap-15 mt-7 justify-center;
+  grid-template-columns: repeat(auto-fit, 330px);
+}
+
+.weight-card {
+  @apply bg-[#111] text-white rounded-[10px] overflow-hidden flex flex-col justify-between w-[330px] h-[430px];
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.weight-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.6),
+    0 0 0 10px rgba(225, 16, 0, 0.06) inset;
+}
+
+.weight-card .card-body {
+  padding: 14px 18px;
+  text-align: center;
+}
+
+.weight-card h3 {
+  @apply m-0 mb-1 text-[18px] text-white text-center;
+}
+
+.card-sub {
+  @apply m-0;
+  color: #ddd;
+  font-size: 13px;
+}
+
+.card-actions {
+  @apply flex justify-center px-5 py-3;
+}
+
+.select-btn {
+  @apply block w-full py-2 rounded-[8px] bg-[#ad2929] text-white text-center font-semibold no-underline;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.select-btn:hover {
+  background: #b30500;
+}
+
+.ufc-footer {
+  @apply mt-7 text-center;
+  color: #bbb;
+  font-size: 13px;
+}
+
+/* Navbar styles */
+.navbar {
+  @apply sticky top-0 z-20 w-full bg-white border-b;
+  box-shadow: 0 2px 14px rgba(16, 24, 40, 0.06);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.nav-inner {
+  @apply max-w-[1200px] mx-30 py-0 flex items-center gap-3;
+}
+
+.nav-logo {
+  @apply inline-flex items-center gap-10 text-black no-underline font-extrabold text-base;
+}
+
+.logo-img {
+  @apply w-30 h-30 block;
+}
+
+.brand {
+  @apply text-black text-3xl italic font-bold tracking-wide;
+}
+
+.nav-spacer {
+  @apply flex-1;
+}
+
+/* Fighter table styles */
+.fighter-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+.fighter-table th,
+.fighter-table td {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 10px 12px;
+  text-align: left;
+}
+.fighter-table thead th {
+  background: #111;
+  color: #fff;
+}
+.fighter-row:hover {
+  background: rgba(0, 0, 0, 0.03);
+}
+.selection-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 0.6rem;
+}
+.confirm-btn {
+  padding: 6px 12px;
+  background: #ad2929;
+  color: white;
+  border-radius: 6px;
+  border: none;
+}
+.confirm-btn[disabled] {
+  opacity: 0.5;
 }
