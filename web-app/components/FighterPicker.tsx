@@ -112,17 +112,37 @@ export default function FighterPicker({
         </button>
       </div>
 
-      <div className="justify-center mt-6">
-        {prediction && (
-          <div className="mt-6 text-center">
-            <h2 className="text-xl font-bold">Prediction</h2>
-            <p>
-              Winner: <strong>{prediction.winner}</strong>
-            </p>
-            <p>Probability: {Math.round(prediction.confidence * 100)}%</p>
+      {prediction && (
+        <div className="mt-8 max-w-xl mx-auto">
+          <h2 className="text-3xl font-bold text-center mb-4">
+            Fight Prediction
+          </h2>
+
+          {/* Names */}
+          <div className="flex justify-between text-sm font-semibold mb-2">
+            <span>{prediction.winner}</span>
+            <span className="text-gray-400">{prediction.looser}</span>
           </div>
-        )}
-      </div>
+
+          {/* Bar */}
+          <div className="relative w-full h-6 rounded-full overflow-hidden bg-gray-200 shadow-inner">
+            <div
+              className="h-full bg-red-500 transition-all duration-700 ease-out"
+              style={{ width: `${Math.round(prediction.confidence * 100)}%` }}
+            />
+          </div>
+
+          {/* Percentages */}
+          <div className="flex justify-between mt-2 text-sm font-medium">
+            <span className="text-red-">
+              {Math.round(prediction.confidence * 100)}%
+            </span>
+            <span className="text-gray-400">
+              {100 - Math.round(prediction.confidence * 100)}%
+            </span>
+          </div>
+        </div>
+      )}
 
       <style jsx>{`
         .fighter-picker {

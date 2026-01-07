@@ -71,5 +71,6 @@ def predict(req: PredictRequest):
 
     return {
         "winner": req.fighter1 if pred == 1 else req.fighter2,
+        "looser": req.fighter2 if pred == 1 else req.fighter1,
         "confidence": float(max(proba))
     }
