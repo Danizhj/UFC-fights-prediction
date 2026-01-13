@@ -5,10 +5,10 @@ import json
 import pandas as pd
 import numpy as np
 
-with open("../ml/model.pkl", "rb") as f:
+with open("./model.pkl", "rb") as f:
     model = pickle.load(f)
 
-with open("../web-app/data/processed_fighterdata.json", "r", encoding="utf-8") as f:
+with open("./processed_fighterdata.json", "r", encoding="utf-8") as f:
     FIGHTERS = json.load(f)
 
 FIGHTER_INDEX = {f["name"]: f for f in FIGHTERS}

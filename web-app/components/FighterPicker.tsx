@@ -37,7 +37,7 @@ export default function FighterPicker({
     setPrediction(null);
 
     try {
-      const res = await fetch("../api/predict", {
+      const res = await fetch("/api/predict", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
